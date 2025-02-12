@@ -1,6 +1,6 @@
 <?php
 
-namespace Salesfokuz\Gamification;
+namespace salesfokuz\gamification;
 
 class Gamification
 {

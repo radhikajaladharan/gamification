@@ -1,5 +1,5 @@
 <?php
-namespace Salesfokuz\Gamification;
+namespace salesfokuz\gamification;
 
 use Illuminate\Support\ServiceProvider;
 
